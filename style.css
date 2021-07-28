@@ -67,7 +67,7 @@ body {
 }
 .info-img{
     
- width: 40%;
+ width: 20%;
  padding-bottom: 40px;
     
 }
@@ -717,7 +717,7 @@ li.social-links a {
     background-color: #ffffff;
 }
 
-.section.lb { /* ye hai */
+.lb { /* ye hai */
     background-color: #f2f3f5;
 }
 
@@ -1556,25 +1556,24 @@ body.seo_version .footer-links a:hover{
     font-size: 15px;
 }
 
-.dmtop {
-    background-color: #3C3D41;
-    z-index: 100;
+.dmtop1 {
     width: 50px;
     height: 50px;
     line-height: 47px;
     position: fixed;
-    bottom: -100px;
     border-radius: 3px;
+    bottom: 75px;
     right: 50px;
     text-align: center;
     font-size: 28px;
     color: #ffffff !important;
-    cursor: pointer;
+/*
     -webkit-transition: all .7s ease-in-out;
     -moz-transition: all .7s ease-in-out;
     -o-transition: all .7s ease-in-out;
     -ms-transition: all .7s ease-in-out;
     transition: all .7s ease-in-out;
+*/
 }
 
 .icon_wrap {
